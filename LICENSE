@@ -1,0 +1,41 @@
+本專案採雙授權。
+
+================================================================
+一、筆記與文件（notes/、docs/、README.md）
+================================================================
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0)
+
+You are free to share and adapt, under the following terms:
+  - Attribution: 必須標示原作者與來源。
+  - NonCommercial: 不得用於商業目的。
+  - ShareAlike: 改作後必須以相同授權釋出。
+
+完整條款：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+注意：本授權僅涵蓋「我自行撰寫的文字」。筆記所描述的課程內容、
+概念與教學安排，著作權屬原課程方所有，本 repo 不主張任何權利，
+亦未重製其講義、投影片或範例程式。
+
+================================================================
+二、程式碼（homework/ 內的 .py / .ipynb）
+================================================================
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
